@@ -1,0 +1,1 @@
+go run go_syntax_demo.go

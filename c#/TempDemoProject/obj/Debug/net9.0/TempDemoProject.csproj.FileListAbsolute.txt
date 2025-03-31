@@ -1,0 +1,14 @@
+/Users/minibrain/Desktop/programming-languages/c#/TempDemoProject/obj/Debug/net9.0/TempDemoProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minibrain/Desktop/programming-languages/c#/TempDemoProject/obj/Debug/net9.0/TempDemoProject.AssemblyInfoInputs.cache
+/Users/minibrain/Desktop/programming-languages/c#/TempDemoProject/obj/Debug/net9.0/TempDemoProject.AssemblyInfo.cs
+/Users/minibrain/Desktop/programming-languages/c#/TempDemoProject/obj/Debug/net9.0/TempDemoProject.csproj.CoreCompileInputs.cache
+/Users/minibrain/Desktop/programming-languages/c#/TempDemoProject/bin/Debug/net9.0/TempDemoProject
+/Users/minibrain/Desktop/programming-languages/c#/TempDemoProject/bin/Debug/net9.0/TempDemoProject.deps.json
+/Users/minibrain/Desktop/programming-languages/c#/TempDemoProject/bin/Debug/net9.0/TempDemoProject.runtimeconfig.json
+/Users/minibrain/Desktop/programming-languages/c#/TempDemoProject/bin/Debug/net9.0/TempDemoProject.dll
+/Users/minibrain/Desktop/programming-languages/c#/TempDemoProject/bin/Debug/net9.0/TempDemoProject.pdb
+/Users/minibrain/Desktop/programming-languages/c#/TempDemoProject/obj/Debug/net9.0/TempDemoProject.dll
+/Users/minibrain/Desktop/programming-languages/c#/TempDemoProject/obj/Debug/net9.0/refint/TempDemoProject.dll
+/Users/minibrain/Desktop/programming-languages/c#/TempDemoProject/obj/Debug/net9.0/TempDemoProject.pdb
+/Users/minibrain/Desktop/programming-languages/c#/TempDemoProject/obj/Debug/net9.0/TempDemoProject.genruntimeconfig.cache
+/Users/minibrain/Desktop/programming-languages/c#/TempDemoProject/obj/Debug/net9.0/ref/TempDemoProject.dll

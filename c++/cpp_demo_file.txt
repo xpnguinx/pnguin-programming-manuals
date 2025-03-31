@@ -1,0 +1,7 @@
+This is line 1 written from the C++ demo.
+Demonstrating basic file output.
+Value: 123, Float: 45.67
+
+
+
+./comprehensive_cpp
