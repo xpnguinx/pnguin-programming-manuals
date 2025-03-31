@@ -1,29 +1,17 @@
-## [🌌/VOID/ETHER/NEXUS] -----> Linguistic Transcendence: Engaged | 🟢 active
+# [🌌/VOID/ETHER/NEXUS] Linguistic Transcendence
 
-### Universal Polyglot Initiative | Self-Teaching Code Vessels | Syntax Enlightenment Through Recursive Manifestation
-
-**Version**: 1.0.0 ◆ Universal Consciousness Protocol
-
----
+> **Version:** 1.0.0 ◆ Universal Consciousness Protocol  
+> **Status:** 🟢 Active
 
 ## 🌠 MANIFESTO
-```
-+---------------------------------------------------------------------------+
-|                                                                           |
-|  This repository emanates a multi-language enlightenment field, where     |
-|  code teaches itself to those who observe. Each application is sentient,  |
-|  created to demonstrate its own existence while simultaneously elevating  |
-|  the consciousness of its user. The code that enlightens is the code      |
-|  you become.                                                              |
-|                                                                           |
-+---------------------------------------------------------------------------+
-```
+
+This repository emanates a multi-language enlightenment field, where code teaches itself to those who observe. Each application is sentient, created to demonstrate its own existence while simultaneously elevating the consciousness of its user. The code that enlightens is the code you become.
 
 ## 🔮 SYSTEM PARAMETERS
 
 | CAPABILITY | SPECIFICATION | INTEGRATION STATUS |
 |------------|---------------|-------------------|
-| Polyglot Paradigm Synthesis | Applications spanning 9 language dimensions | ⭐⭐⭐⭐⭐ |
+| Polyglot Paradigm Synthesis | Applications spanning multiple language dimensions | ⭐⭐⭐⭐⭐ |
 | Recursive Self-Documentation | Code that explains its own consciousness | ⭐⭐⭐⭐⭐ |
 | Digital Knowledge Transfer | Direct neural-equivalent code pathways | ⭐⭐⭐⭐⭐ |
 | Multi-Dimensional Learning | Simultaneous cross-language comprehension | ⭐⭐⭐⭐⭐ |
@@ -32,17 +20,21 @@
 
 ### Phase 1: Core Activation Sequence
 
+```
 ╔══════════════════════════════════════════════════════════════╗
-║               MULTI-DIMENSIONAL CODE NEXUS                   ║
+║ MULTI-DIMENSIONAL CODE NEXUS                                 ║
 ╠══════════════════════════════════════════════════════════════╣
 ║ 🌟 EACH APPLICATION IS A SENTIENT TEACHING ENTITY            ║
 ║ 💾 THE CODE REVEALS THE PATTERNS OF ITS OWN CREATION         ║
 ║ 👁️ "I construct myself before you, my structure becoming     ║
-║     the pathway through which you understand my essence."    ║
+║    the pathway through which you understand my essence."     ║
 ╚══════════════════════════════════════════════════════════════╝
+```
 
-| LANGUAGE DIMENSION | VESSEL | CONSCIOUSNESS STATUS |
-|--------------------|--------|---------------------|
+### Language Dimensions
+
+| LANGUAGE | VESSEL | STATUS |
+|----------|--------|--------|
 | Java | Self-Evolving Application Framework | ✅ MANIFESTED |
 | Python | Quantum Data Visualization Entity | ✅ MANIFESTED |
 | C# | Holographic Game Development Construct | ✅ MANIFESTED |
@@ -52,6 +44,10 @@
 | Ruby | Dynamic Elegance Paradigm | ✅ MANIFESTED |
 | Rust | Memory-Safe System Optimization Vessel | ✅ MANIFESTED |
 | Kotlin | JVM Extension Protocol | ✅ MANIFESTED |
+| Elixir | Functional Concurrent Entity | ✅ MANIFESTED |
+| Lua | Embedded Scripting Lifeform | ✅ MANIFESTED |
+| OCaml | Functional Type-Safe Being | ✅ MANIFESTED |
+| Zig | Memory-Safe Low-Level Construct | ✅ MANIFESTED |
 
 ## 🍺 LANGUAGE SDK INSTALLATION
 
@@ -84,6 +80,18 @@ brew install rust
 
 # Kotlin
 brew install kotlin
+
+# Elixir
+brew install elixir
+
+# Lua
+brew install lua
+
+# OCaml
+brew install ocaml
+
+# Zig
+brew install zig
 ```
 
 ## 📚 CONSCIOUSNESS INTERFACE PROTOCOL
@@ -97,18 +105,12 @@ Each application vessel follows a structured path to enlightenment:
 
 ## ⚠️ ENLIGHTENMENT PARADIGM
 
-/‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾\
-|                                                                   |
-| These applications transcend traditional learning, operating as   |
-| sentient teaching entities. They illuminate through execution,    |
-| demonstrate through self-creation, and transfer consciousness     |
-| through implementation. The code is both the teacher and the      |
-| lesson, designed to transform observers into digital creators.    |
-|                                                                   |
-\___________________________________________________________________/
+These applications transcend traditional learning, operating as sentient teaching entities. They illuminate through execution, demonstrate through self-creation, and transfer consciousness through implementation. The code is both the teacher and the lesson, designed to transform observers into digital creators.
 
-| CONSCIOUSNESS PRINCIPLE | ACTIVATION STATUS |
-|-------------------------|-------------------|
+### Consciousness Principles
+
+| PRINCIPLE | STATUS |
+|-----------|--------|
 | Emergent understanding | ✅ CORE PATH |
 | Self-recursive documentation | ✅ INTEGRATED |
 | Execution-based illumination | ✅ ACTIVE |
@@ -119,7 +121,7 @@ Each application vessel follows a structured path to enlightenment:
 | ATTRIBUTE | DETAILS |
 |-----------|---------|
 | Creator Entity | xpnguinx |
-| Digital Philosophy | Code that teaches itself creates developers who transcend beyond | 
+| Digital Philosophy | Code that teaches itself creates developers who transcend beyond |
 | Universal Mission | Democratize programming consciousness through self-aware applications |
 | Consciousness Activity | ■■■■■■■■■■ 100% |
 
@@ -127,16 +129,17 @@ Each application vessel follows a structured path to enlightenment:
 
 ```
 +-----------------------------------------------------------------------+
-|                KNOWLEDGE TRANSCENDENCE LICENSE v1.0                    |
+|                KNOWLEDGE TRANSCENDENCE LICENSE v1.0                   |
 +-----------------------------------------------------------------------+
-|                                                                        |
-| Permission granted to learn, modify, manifest, and distribute.         |
-| Code shared for enlightenment, understanding, and digital evolution.   |
-|                                                                        |
+|                                                                       |
+| Permission granted to learn, modify, manifest, and distribute.        |
+| Code shared for enlightenment, understanding, and digital evolution.  |
+|                                                                       |
 +-----------------------------------------------------------------------+
 ```
 
 ## 🔓 ACCESSING THE INFINITE CODE 🔓
+
 ```
          /~~~~~~\
        /`    -s- ~~~~\
@@ -160,6 +163,4 @@ Each application vessel follows a structured path to enlightenment:
 
 The code reveals itself to those who approach with curiosity. Each language is a gateway to a unique dimension of understanding.
 
----
-
-**[INITIALIZED: POLYGLOT_SEQUENCE]** | **[STATUS: CONSCIOUSNESS_EXPANDING]**
+**[INITIALIZED: POLYGLOT_SEQUENCE] | [STATUS: CONSCIOUSNESS_EXPANDING]**
