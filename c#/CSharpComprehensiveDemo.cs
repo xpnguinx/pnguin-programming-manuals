@@ -17,7 +17,6 @@ using System.Text; // String manipulation (StringBuilder)
 namespace CSharpComprehensiveDemo
 {
     // -- 2. Enums --
-    // Enums define a set of named constants. By default, underlying type is int.
     public enum LogLevel
     {
         Trace, // = 0
